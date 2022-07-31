@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavankumarkadiyam
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...Corejava
+- 🌱 I’m currently learning ...Java Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
